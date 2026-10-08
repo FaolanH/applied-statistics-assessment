@@ -1,7 +1,35 @@
 # applied-statistics-assessment
 This repository contains my submission for the Applied Statistics module in ATU, Winter 2026
+The project is written in a single Jupyter notebook, in Python.
+Everything needed to run the notebook is included in this repository.
 
-## Iris Dataset
+## Quick Overview
+
+- You can click on [problems.ipynb] in this repository and GitHub will display it in static format.
+- This project analysis the well-known Iris dataset using various statisical methodologies and plotting graphs.
+- You can easily run this project by cloning the repository and creating your own codespace on Github
+
+## Running the Notebook
+
+In order to run `problems.ipynb` you can follow these steps:
+
+1. Clone the repository using [git](https://git-scm.com/).
+2. Ensure you have [Python](https://www.python.org/) installed. An easy way to get Python is to use [Anaconda](https://www.anaconda.com/download).
+3. Use [VSCode](https://code.visualstudio.com/) or another software to run the code on your computer 
+
+## Dependencies
+
+The notebook depends on the [numpy]() package, the [matplotlib] package...
+
+## About the Notebook
+
+The notebook focuses on analysing the Iris dataset using various statisical methodologies and plotting graphs.
+
+## About the Author
+
+My name is Faolán, I am in my final semester of the Higher Diploma in Data Analytics with ATU. 
+
+## About the Iris Dataset
 The Fisher's Iris dataset contains 150 rows and 4 columns of data, looking at 150 samples taken from three species of iris: setosa, versicolor and virginica. These samples are measured by four features: sepal width, sepal length, petal width and petal length. There is some interesting context on the background for this dataset and possible uses (Source: A) Iris Dataset Info)
 To see the actual data in the iris dataset, please see the iris_data_folder for more details (Source: B) Iris Dataset Literal
 
