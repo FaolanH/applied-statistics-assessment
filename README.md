@@ -22,6 +22,7 @@ To see the actual data in the iris dataset, please see the iris_data_folder for 
 ##### Signal - #D9CE41
 ##### Stem - #447B29
 
+![alt text]({EDFFBEAD-CA46-4F83-A6BD-2DFA03C5A531}.png)
 
 ## References:
 
