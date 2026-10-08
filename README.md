@@ -16,13 +16,13 @@ To see the actual data in the iris dataset, please see the iris_data_folder for 
 
 ### Palette:
 
+![alt text]({EDFFBEAD-CA46-4F83-A6BD-2DFA03C5A531}.png)
+
 ##### Setosa  - #929CF8 
 ##### Versicolor - #8241B0
 ##### Virginica - #6C34CE
 ##### Signal - #D9CE41
 ##### Stem - #447B29
-
-![alt text]({EDFFBEAD-CA46-4F83-A6BD-2DFA03C5A531}.png)
 
 ## References:
 
