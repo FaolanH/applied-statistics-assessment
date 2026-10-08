@@ -16,7 +16,7 @@ To see the actual data in the iris dataset, please see the iris_data_folder for 
 
 ### Palette:
 
-<img width="5220" height="1503" alt="Image" src="https://github.com/user-attachments/assets/13f50b1f-c515-468a-a4bb-e381647434b6" />
+<img width="1715" height="487" alt="Image" src="https://github.com/user-attachments/assets/9583fd57-f427-4113-9ce4-07df9aaf2344" />
 
 ##### Setosa  - #929CF8 
 ##### Versicolor - #8241B0
